@@ -74,7 +74,7 @@ However, the android version of radkio validates user provided by GPS informatio
 ## Usage
 
 ```console
-python main.py --version=1.0.0 --station=LFR --areaFree=False --timeFree=True --startTime=20241106010000 --endTime=20241106030000 --save=True --default=./data
+python main.py --version=1.0.0 --station=LFR --areaFree=False --timeFree=True --startTime=20241106010000 --endTime=20241106030000 --save=True --output_dir=./data
 ```
 
 ## Reference
