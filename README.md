@@ -47,28 +47,29 @@ However, the android version of radkio validates user provided by GPS informatio
 ## Parameters
 
 * `version` : Version of the application
+
   * default: `1.0.0`
-
 * `station` : Stream Station ID (e.g., TBS, LFR)
+
   * default: `TBS`
-
 * `areaFree` : Whether the stream is area-free
-  * default: `False`
 
+  * default: `False`
 * `timeFree` : Whether the stream is time-free
+
   * default: `False`
-
 * `startTime` : Stream start time (format: YYYYMMDDHHMM)
-  * default: `None`
 
+  * default: `None`
 * `endTime` : Stream end time (format: YYYYMMDDHHMM)
+
   * default: `None`
-
 * `Save` : Whether to save the stream as a file
-  - default: `False`
 
-* `output_dir` : Directory to save output files
   - default: `False`
+* `output_dir` : Directory to save output files
+
+  - default: `./data`
 
 ## Usage
 
