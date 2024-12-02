@@ -1,0 +1,983 @@
+[
+    {
+        "station_name": "ＨＢＣラジオ",
+        "station_id": "HBC",
+        "area_id": "JP1",
+        "area_jp": "北海道",
+        "area_kr": "홋카이도",
+        "banner": "http://radiko.jp/res/banner/HBC/20160908091323.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/HBC/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ＳＴＶラジオ",
+        "station_id": "STV",
+        "area_id": "JP1",
+        "area_jp": "北海道",
+        "area_kr": "홋카이도",
+        "banner": "http://radiko.jp/res/banner/STV/20230731112934.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/STV/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "AIR-G'（FM北海道）",
+        "station_id": "AIR-G",
+        "area_id": "JP1",
+        "area_jp": "北海道",
+        "area_kr": "홋카이도",
+        "banner": "http://radiko.jp/res/banner/AIR-G/20200828145049.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/AIR-G/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "FM NORTH WAVE",
+        "station_id": "NORTHWAVE",
+        "area_id": "JP1",
+        "area_jp": "北海道",
+        "area_kr": "홋카이도",
+        "banner": "http://radiko.jp/res/banner/NORTHWAVE/20150731161543.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/NORTHWAVE/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ＲＡＢ青森放送",
+        "station_id": "RAB",
+        "area_id": "JP2",
+        "area_jp": "青森",
+        "area_kr": "아오모리현",
+        "banner": "http://radiko.jp/res/banner/RAB/20140916175044.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/RAB/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "エフエム青森",
+        "station_id": "AFB",
+        "area_id": "JP2",
+        "area_jp": "青森",
+        "area_kr": "아오모리현",
+        "banner": "http://radiko.jp/res/banner/AFB/20170313163943.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/AFB/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "IBCラジオ",
+        "station_id": "IBC",
+        "area_id": "JP3",
+        "area_jp": "岩手",
+        "area_kr": "이와테현",
+        "banner": "http://radiko.jp/res/banner/IBC/20180405204944.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/IBC/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "エフエム岩手",
+        "station_id": "FMI",
+        "area_id": "JP3",
+        "area_jp": "岩手",
+        "area_kr": "이와테현",
+        "banner": "http://radiko.jp/res/banner/FMI/20160928162653.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMI/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "TBCラジオ",
+        "station_id": "TBC",
+        "area_id": "JP4",
+        "area_jp": "宮城",
+        "area_kr": "미야기현",
+        "banner": "http://radiko.jp/res/banner/TBC/20210121115531.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/TBC/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "Date fm エフエム仙台",
+        "station_id": "DATEFM",
+        "area_id": "JP4",
+        "area_jp": "宮城",
+        "area_kr": "미야기현",
+        "banner": "http://radiko.jp/res/banner/DATEFM/20200423150841.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/DATEFM/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ABSラジオ",
+        "station_id": "ABS",
+        "area_id": "JP5",
+        "area_jp": "秋田",
+        "area_kr": "아키타현",
+        "banner": "http://radiko.jp/res/banner/ABS/20170523122815.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/ABS/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "エフエム秋田",
+        "station_id": "AFM",
+        "area_id": "JP5",
+        "area_jp": "秋田",
+        "area_kr": "아키타현",
+        "banner": "http://radiko.jp/res/banner/AFM/banner.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/AFM/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "YBC山形放送",
+        "station_id": "YBC",
+        "area_id": "JP6",
+        "area_jp": "山形",
+        "area_kr": "야마가타현",
+        "banner": "http://radiko.jp/res/banner/YBC/20191220163403.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/YBC/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "Rhythm Station　エフエム山形",
+        "station_id": "RFM",
+        "area_id": "JP6",
+        "area_jp": "山形",
+        "area_kr": "야마가타현",
+        "banner": "http://radiko.jp/res/banner/RFM/20200401145756.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/RFM/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "RFCラジオ福島",
+        "station_id": "RFC",
+        "area_id": "JP7",
+        "area_jp": "福島",
+        "area_kr": "후쿠시마현",
+        "banner": "http://radiko.jp/res/banner/RFC/banner.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/RFC/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ふくしまFM",
+        "station_id": "FMF",
+        "area_id": "JP7",
+        "area_jp": "福島",
+        "area_kr": "후쿠시마현",
+        "banner": "http://radiko.jp/res/banner/FMF/20201001013302.JPEG",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMF/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "NHKラジオ第1（札幌）",
+        "station_id": "JOIK",
+        "area_id": "JP1",
+        "area_jp": "北海道",
+        "area_kr": "홋카이도",
+        "banner": "http://radiko.jp/res/banner/JOIK/20180412101601.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/JOIK/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "NHKラジオ第1（仙台）",
+        "station_id": "JOHK",
+        "area_id": "JP4",
+        "area_jp": "宮城",
+        "area_kr": "미야기현",
+        "banner": "http://radiko.jp/res/banner/JOHK/20170922183913.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/JOHK/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "TBSラジオ",
+        "station_id": "TBS",
+        "area_id": "JP13",
+        "area_jp": "東京",
+        "area_kr": "도쿄도",
+        "banner": "http://radiko.jp/res/banner/TBS/20200331114320.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/TBS/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "文化放送",
+        "station_id": "QRR",
+        "area_id": "JP13",
+        "area_jp": "東京",
+        "area_kr": "도쿄도",
+        "banner": "http://radiko.jp/res/banner/QRR/20240423144553.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/QRR/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ニッポン放送",
+        "station_id": "LFR",
+        "area_id": "JP13",
+        "area_jp": "東京",
+        "area_kr": "도쿄도",
+        "banner": "http://radiko.jp/res/banner/LFR/20200423102824.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/LFR/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "interfm",
+        "station_id": "INT",
+        "area_id": "JP13",
+        "area_jp": "東京",
+        "area_kr": "도쿄도",
+        "banner": "http://radiko.jp/res/banner/INT/20220401035523.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/INT/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "TOKYO FM",
+        "station_id": "FMT",
+        "area_id": "JP13",
+        "area_jp": "東京",
+        "area_kr": "도쿄도",
+        "banner": "http://radiko.jp/res/banner/FMT/20220512162447.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMT/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "J-WAVE",
+        "station_id": "FMJ",
+        "area_id": "JP13",
+        "area_jp": "東京",
+        "area_kr": "도쿄도",
+        "banner": "http://radiko.jp/res/banner/FMJ/20150403151103.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMJ/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ラジオ日本",
+        "station_id": "JORF",
+        "area_id": "JP13",
+        "area_jp": "東京",
+        "area_kr": "도쿄도",
+        "banner": "http://radiko.jp/res/banner/JORF/20210226162543.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/JORF/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "BAYFM78",
+        "station_id": "BAYFM78",
+        "area_id": "JP12",
+        "area_jp": "千葉",
+        "area_kr": "치바현",
+        "banner": "http://radiko.jp/res/banner/BAYFM78/20240314013642.jpeg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/BAYFM78/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "NACK5",
+        "station_id": "NACK5",
+        "area_id": "JP11",
+        "area_jp": "埼玉",
+        "area_kr": "사이타마현",
+        "banner": "http://radiko.jp/res/banner/NACK5/20160929170327.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/NACK5/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ＦＭヨコハマ",
+        "station_id": "YFM",
+        "area_id": "JP14",
+        "area_jp": "神奈川",
+        "area_kr": "가나가와현",
+        "banner": "http://radiko.jp/res/banner/YFM/20110922163525.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/YFM/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "LuckyFM 茨城放送",
+        "station_id": "IBS",
+        "area_id": "JP8",
+        "area_jp": "茨城",
+        "area_kr": "이바라키현",
+        "banner": "http://radiko.jp/res/banner/IBS/20220111154553.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/IBS/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "CRT栃木放送",
+        "station_id": "CRT",
+        "area_id": "JP9",
+        "area_jp": "栃木",
+        "area_kr": "도치기현",
+        "banner": "http://radiko.jp/res/banner/CRT/20161012200917.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/CRT/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "RADIO BERRY",
+        "station_id": "RADIOBERRY",
+        "area_id": "JP9",
+        "area_jp": "栃木",
+        "area_kr": "도치기현",
+        "banner": "http://radiko.jp/res/banner/RADIOBERRY/20110922162932.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/RADIOBERRY/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "FM GUNMA",
+        "station_id": "FMGUNMA",
+        "area_id": "JP10",
+        "area_jp": "群馬",
+        "area_kr": "군마현",
+        "banner": "http://radiko.jp/res/banner/FMGUNMA/20170413110757.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMGUNMA/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "NHKラジオ第1（東京）",
+        "station_id": "JOAK",
+        "area_id": "JP13",
+        "area_jp": "東京",
+        "area_kr": "도쿄도",
+        "banner": "http://radiko.jp/res/banner/JOAK/20170922183839.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/JOAK/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ＢＳＮラジオ",
+        "station_id": "BSN",
+        "area_id": "JP15",
+        "area_jp": "新潟",
+        "area_kr": "니가타현",
+        "banner": "http://radiko.jp/res/banner/BSN/20220428163140.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/BSN/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "FM NIIGATA",
+        "station_id": "FMNIIGATA",
+        "area_id": "JP15",
+        "area_jp": "新潟",
+        "area_kr": "니가타현",
+        "banner": "http://radiko.jp/res/banner/FMNIIGATA/20181016121920.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMNIIGATA/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ＫＮＢラジオ",
+        "station_id": "KNB",
+        "area_id": "JP16",
+        "area_jp": "富山",
+        "area_kr": "도야마현",
+        "banner": "http://radiko.jp/res/banner/KNB/20230922095147.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/KNB/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ＦＭとやま",
+        "station_id": "FMTOYAMA",
+        "area_id": "JP16",
+        "area_jp": "富山",
+        "area_kr": "도야마현",
+        "banner": "http://radiko.jp/res/banner/FMTOYAMA/20190129155355.JPG",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMTOYAMA/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "MROラジオ",
+        "station_id": "MRO",
+        "area_id": "JP17",
+        "area_jp": "石川",
+        "area_kr": "이시카와현",
+        "banner": "http://radiko.jp/res/banner/MRO/20160909100655.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/MRO/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "エフエム石川",
+        "station_id": "HELLOFIVE",
+        "area_id": "JP17",
+        "area_jp": "石川",
+        "area_kr": "이시카와현",
+        "banner": "http://radiko.jp/res/banner/HELLOFIVE/20200130163346.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/HELLOFIVE/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "FBCラジオ",
+        "station_id": "FBC",
+        "area_id": "JP18",
+        "area_jp": "福井",
+        "area_kr": "후쿠이현",
+        "banner": "http://radiko.jp/res/banner/FBC/20220314154127.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FBC/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "FM福井",
+        "station_id": "FMFUKUI",
+        "area_id": "JP18",
+        "area_jp": "福井",
+        "area_kr": "후쿠이현",
+        "banner": "http://radiko.jp/res/banner/FMFUKUI/20180416154531.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMFUKUI/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ＹＢＳラジオ",
+        "station_id": "YBS",
+        "area_id": "JP19",
+        "area_jp": "山梨",
+        "area_kr": "야마나시현",
+        "banner": "http://radiko.jp/res/banner/YBS/20171005130706.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/YBS/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "FM FUJI",
+        "station_id": "FM-FUJI",
+        "area_id": "JP19",
+        "area_jp": "山梨",
+        "area_kr": "야마나시현",
+        "banner": "http://radiko.jp/res/banner/FM-FUJI/20180328151203.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FM-FUJI/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "SBCラジオ",
+        "station_id": "SBC",
+        "area_id": "JP20",
+        "area_jp": "長野",
+        "area_kr": "나가노현",
+        "banner": "http://radiko.jp/res/banner/SBC/20161124154740.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/SBC/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ＦＭ長野",
+        "station_id": "FMN",
+        "area_id": "JP20",
+        "area_jp": "長野",
+        "area_kr": "나가노현",
+        "banner": "http://radiko.jp/res/banner/FMN/20190401130254.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMN/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "CBCラジオ",
+        "station_id": "CBC",
+        "area_id": "JP23",
+        "area_jp": "愛知",
+        "area_kr": "아이치현",
+        "banner": "http://radiko.jp/res/banner/CBC/20240406065745.jpeg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/CBC/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "TOKAI RADIO",
+        "station_id": "TOKAIRADIO",
+        "area_id": "JP23",
+        "area_jp": "愛知",
+        "area_kr": "아이치현",
+        "banner": "http://radiko.jp/res/banner/TOKAIRADIO/20240327104747.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/TOKAIRADIO/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ぎふチャン",
+        "station_id": "GBS",
+        "area_id": "JP21",
+        "area_jp": "岐阜",
+        "area_kr": "기후현",
+        "banner": "http://radiko.jp/res/banner/GBS/20200526170847.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/GBS/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ZIP-FM",
+        "station_id": "ZIP-FM",
+        "area_id": "JP23",
+        "area_jp": "愛知",
+        "area_kr": "아이치현",
+        "banner": "http://radiko.jp/res/banner/ZIP-FM/20161011172934.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/ZIP-FM/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "FM AICHI",
+        "station_id": "FMAICHI",
+        "area_id": "JP23",
+        "area_jp": "愛知",
+        "area_kr": "아이치현",
+        "banner": "http://radiko.jp/res/banner/FMAICHI/20200107190742.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMAICHI/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ＦＭ ＧＩＦＵ",
+        "station_id": "FMGIFU",
+        "area_id": "JP21",
+        "area_jp": "岐阜",
+        "area_kr": "기후현",
+        "banner": "http://radiko.jp/res/banner/FMGIFU/20160310171416.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMGIFU/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "SBSラジオ",
+        "station_id": "SBS",
+        "area_id": "JP22",
+        "area_jp": "静岡",
+        "area_kr": "시즈오카현",
+        "banner": "http://radiko.jp/res/banner/SBS/20161215152007.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/SBS/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "K-MIX",
+        "station_id": "K-MIX",
+        "area_id": "JP22",
+        "area_jp": "静岡",
+        "area_kr": "시즈오카현",
+        "banner": "http://radiko.jp/res/banner/K-MIX/20240620101252.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/K-MIX/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "レディオキューブ ＦＭ三重",
+        "station_id": "FMMIE",
+        "area_id": "JP24",
+        "area_jp": "三重",
+        "area_kr": "미에현",
+        "banner": "http://radiko.jp/res/banner/FMMIE/20161103035701.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMMIE/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "NHKラジオ第1（名古屋）",
+        "station_id": "JOCK",
+        "area_id": "JP23",
+        "area_jp": "愛知",
+        "area_kr": "아이치현",
+        "banner": "http://radiko.jp/res/banner/JOCK/20180412101913.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/JOCK/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ABCラジオ",
+        "station_id": "ABC",
+        "area_id": "JP27",
+        "area_jp": "大阪",
+        "area_kr": "오사카부",
+        "banner": "http://radiko.jp/res/banner/ABC/20211108183344.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/ABC/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "MBSラジオ",
+        "station_id": "MBS",
+        "area_id": "JP27",
+        "area_jp": "大阪",
+        "area_kr": "오사카부",
+        "banner": "http://radiko.jp/res/banner/MBS/20210419163706.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/MBS/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "OBCラジオ大阪",
+        "station_id": "OBC",
+        "area_id": "JP27",
+        "area_jp": "大阪",
+        "area_kr": "오사카부",
+        "banner": "http://radiko.jp/res/banner/OBC/20190117104010.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/OBC/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "FM COCOLO",
+        "station_id": "CCL",
+        "area_id": "JP27",
+        "area_jp": "大阪",
+        "area_kr": "오사카부",
+        "banner": "http://radiko.jp/res/banner/CCL/20161014144826.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/CCL/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "FM802",
+        "station_id": "802",
+        "area_id": "JP27",
+        "area_jp": "大阪",
+        "area_kr": "오사카부",
+        "banner": "http://radiko.jp/res/banner/802/20161014144737.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/802/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "FM大阪",
+        "station_id": "FMO",
+        "area_id": "JP27",
+        "area_jp": "大阪",
+        "area_kr": "오사카부",
+        "banner": "http://radiko.jp/res/banner/FMO/20200528173851.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMO/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "Kiss FM KOBE",
+        "station_id": "KISSFMKOBE",
+        "area_id": "JP28",
+        "area_jp": "兵庫",
+        "area_kr": "효고현",
+        "banner": "http://radiko.jp/res/banner/KISSFMKOBE/20210403105655.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/KISSFMKOBE/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ラジオ関西",
+        "station_id": "CRK",
+        "area_id": "JP28",
+        "area_jp": "兵庫",
+        "area_kr": "효고현",
+        "banner": "http://radiko.jp/res/banner/CRK/20160405140655.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/CRK/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "e-radio FM滋賀",
+        "station_id": "E-RADIO",
+        "area_id": "JP25",
+        "area_jp": "滋賀",
+        "area_kr": "시가현",
+        "banner": "http://radiko.jp/res/banner/E-RADIO/20171207140826.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/E-RADIO/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "KBS京都ラジオ",
+        "station_id": "KBS",
+        "area_id": "JP26",
+        "area_jp": "京都",
+        "area_kr": "교토부",
+        "banner": "http://radiko.jp/res/banner/KBS/20120228180921.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/KBS/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "α-STATION FM KYOTO",
+        "station_id": "ALPHA-STATION",
+        "area_id": "JP26",
+        "area_jp": "京都",
+        "area_kr": "교토부",
+        "banner": "http://radiko.jp/res/banner/ALPHA-STATION/20110929130156.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/ALPHA-STATION/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "wbs和歌山放送",
+        "station_id": "WBS",
+        "area_id": "JP30",
+        "area_jp": "和歌山",
+        "area_kr": "와카야마현",
+        "banner": "http://radiko.jp/res/banner/WBS/20110930145435.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/WBS/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "NHKラジオ第1（大阪）",
+        "station_id": "JOBK",
+        "area_id": "JP27",
+        "area_jp": "大阪",
+        "area_kr": "오사카부",
+        "banner": "http://radiko.jp/res/banner/JOBK/20180412101432.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/JOBK/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "BSSラジオ",
+        "station_id": "BSS",
+        "area_id": "JP31",
+        "area_jp": "鳥取",
+        "area_kr": "돗토리현",
+        "banner": "http://radiko.jp/res/banner/BSS/20240201114227.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/BSS/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "エフエム山陰",
+        "station_id": "FM-SANIN",
+        "area_id": "JP32",
+        "area_jp": "島根",
+        "area_kr": "시마네현",
+        "banner": "http://radiko.jp/res/banner/FM-SANIN/20200406113750.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FM-SANIN/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ＲＳＫラジオ",
+        "station_id": "RSK",
+        "area_id": "JP33",
+        "area_jp": "岡山",
+        "area_kr": "오카야마현",
+        "banner": "http://radiko.jp/res/banner/RSK/20141120134411.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/RSK/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ＦＭ岡山",
+        "station_id": "FM-OKAYAMA",
+        "area_id": "JP33",
+        "area_jp": "岡山",
+        "area_kr": "오카야마현",
+        "banner": "http://radiko.jp/res/banner/FM-OKAYAMA/20200331123058.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FM-OKAYAMA/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "RCCラジオ",
+        "station_id": "RCC",
+        "area_id": "JP34",
+        "area_jp": "広島",
+        "area_kr": "히로시마현",
+        "banner": "http://radiko.jp/res/banner/RCC/20211221164300.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/RCC/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "広島FM",
+        "station_id": "HFM",
+        "area_id": "JP34",
+        "area_jp": "広島",
+        "area_kr": "히로시마현",
+        "banner": "http://radiko.jp/res/banner/HFM/20210415135403.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/HFM/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ＫＲＹ山口放送",
+        "station_id": "KRY",
+        "area_id": "JP35",
+        "area_jp": "山口",
+        "area_kr": "야마구치현",
+        "banner": "http://radiko.jp/res/banner/KRY/20190327184458.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/KRY/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "エフエム山口",
+        "station_id": "FMY",
+        "area_id": "JP35",
+        "area_jp": "山口",
+        "area_kr": "야마구치현",
+        "banner": "http://radiko.jp/res/banner/FMY/20180312123722.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMY/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ＪＲＴ四国放送",
+        "station_id": "JRT",
+        "area_id": "JP36",
+        "area_jp": "徳島",
+        "area_kr": "도쿠시마현",
+        "banner": "http://radiko.jp/res/banner/JRT/20150317183505.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/JRT/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "FM徳島",
+        "station_id": "FM807",
+        "area_id": "JP36",
+        "area_jp": "徳島",
+        "area_kr": "도쿠시마현",
+        "banner": "http://radiko.jp/res/banner/FM807/20200823021546.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FM807/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "RNC西日本放送",
+        "station_id": "RNC",
+        "area_id": "JP37",
+        "area_jp": "香川",
+        "area_kr": "가가와현",
+        "banner": "http://radiko.jp/res/banner/RNC/20230306104543.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/RNC/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "エフエム香川",
+        "station_id": "FMKAGAWA",
+        "area_id": "JP37",
+        "area_jp": "香川",
+        "area_kr": "가가와현",
+        "banner": "http://radiko.jp/res/banner/FMKAGAWA/20210102120858.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMKAGAWA/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "RNB南海放送",
+        "station_id": "RNB",
+        "area_id": "JP38",
+        "area_jp": "愛媛",
+        "area_kr": "에히메현",
+        "banner": "http://radiko.jp/res/banner/RNB/20170418144016.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/RNB/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "FM愛媛",
+        "station_id": "JOEU-FM",
+        "area_id": "JP38",
+        "area_jp": "愛媛",
+        "area_kr": "에히메현",
+        "banner": "http://radiko.jp/res/banner/JOEU-FM/20170327223217.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/JOEU-FM/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "RKC高知放送",
+        "station_id": "RKC",
+        "area_id": "JP39",
+        "area_jp": "高知",
+        "area_kr": "고치현",
+        "banner": "http://radiko.jp/res/banner/RKC/banner.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/RKC/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "エフエム高知",
+        "station_id": "HI-SIX",
+        "area_id": "JP39",
+        "area_jp": "高知",
+        "area_kr": "고치현",
+        "banner": "http://radiko.jp/res/banner/HI-SIX/20200228150708.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/HI-SIX/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "NHKラジオ第1（広島）",
+        "station_id": "JOFK",
+        "area_id": "JP34",
+        "area_jp": "広島",
+        "area_kr": "히로시마현",
+        "banner": "http://radiko.jp/res/banner/JOFK/20170922183935.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/JOFK/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "NHKラジオ第1（松山）",
+        "station_id": "JOZK",
+        "area_id": "JP38",
+        "area_jp": "愛媛",
+        "area_kr": "에히메현",
+        "banner": "http://radiko.jp/res/banner/JOZK/20170922183956.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/JOZK/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "RKBラジオ",
+        "station_id": "RKB",
+        "area_id": "JP40",
+        "area_jp": "福岡",
+        "area_kr": "후쿠오카현",
+        "banner": "http://radiko.jp/res/banner/RKB/20170817143046.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/RKB/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "KBCラジオ",
+        "station_id": "KBC",
+        "area_id": "JP40",
+        "area_jp": "福岡",
+        "area_kr": "후쿠오카현",
+        "banner": "http://radiko.jp/res/banner/KBC/20230519133822.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/KBC/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "LOVE FM",
+        "station_id": "LOVEFM",
+        "area_id": "JP40",
+        "area_jp": "福岡",
+        "area_kr": "후쿠오카현",
+        "banner": "http://radiko.jp/res/banner/LOVEFM/20140715154132.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/LOVEFM/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "CROSS FM",
+        "station_id": "CROSSFM",
+        "area_id": "JP40",
+        "area_jp": "福岡",
+        "area_kr": "후쿠오카현",
+        "banner": "http://radiko.jp/res/banner/CROSSFM/20230924195103.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/CROSSFM/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "FM FUKUOKA",
+        "station_id": "FMFUKUOKA",
+        "area_id": "JP40",
+        "area_jp": "福岡",
+        "area_kr": "후쿠오카현",
+        "banner": "http://radiko.jp/res/banner/FMFUKUOKA/20210414154152.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMFUKUOKA/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "エフエム佐賀",
+        "station_id": "FMS",
+        "area_id": "JP41",
+        "area_jp": "佐賀",
+        "area_kr": "사가현",
+        "banner": "http://radiko.jp/res/banner/FMS/20200408162952.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMS/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "NBCラジオ",
+        "station_id": "NBC",
+        "area_id": "JP42",
+        "area_jp": "長崎",
+        "area_kr": "나가사키현",
+        "banner": "http://radiko.jp/res/banner/NBC/20240123194645.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/NBC/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "FM長崎",
+        "station_id": "FMNAGASAKI",
+        "area_id": "JP42",
+        "area_jp": "長崎",
+        "area_kr": "나가사키현",
+        "banner": "http://radiko.jp/res/banner/FMNAGASAKI/20150402112420.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMNAGASAKI/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "RKKラジオ",
+        "station_id": "RKK",
+        "area_id": "JP43",
+        "area_jp": "熊本",
+        "area_kr": "구마모토현",
+        "banner": "http://radiko.jp/res/banner/RKK/20230401182340.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/RKK/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "FMKエフエム熊本",
+        "station_id": "FMK",
+        "area_id": "JP43",
+        "area_jp": "熊本",
+        "area_kr": "구마모토현",
+        "banner": "http://radiko.jp/res/banner/FMK/20201228121136.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FMK/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "OBSラジオ",
+        "station_id": "OBS",
+        "area_id": "JP44",
+        "area_jp": "大分",
+        "area_kr": "오이타현",
+        "banner": "http://radiko.jp/res/banner/OBS/20120326111515.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/OBS/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "エフエム大分",
+        "station_id": "FM_OITA",
+        "area_id": "JP44",
+        "area_jp": "大分",
+        "area_kr": "오이타현",
+        "banner": "http://radiko.jp/res/banner/FM_OITA/20120326113616.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FM_OITA/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "宮崎放送",
+        "station_id": "MRT",
+        "area_id": "JP45",
+        "area_jp": "宮崎",
+        "area_kr": "미야자키현",
+        "banner": "http://radiko.jp/res/banner/MRT/20221014112245.jpeg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/MRT/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "エフエム宮崎",
+        "station_id": "JOYFM",
+        "area_id": "JP45",
+        "area_jp": "宮崎",
+        "area_kr": "미야자키현",
+        "banner": "http://radiko.jp/res/banner/JOYFM/20200326190840.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/JOYFM/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ＭＢＣラジオ",
+        "station_id": "MBC",
+        "area_id": "JP46",
+        "area_jp": "鹿児島",
+        "area_kr": "가고시마현",
+        "banner": "http://radiko.jp/res/banner/MBC/20190926143408.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/MBC/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "μＦＭ",
+        "station_id": "MYUFM",
+        "area_id": "JP46",
+        "area_jp": "鹿児島",
+        "area_kr": "가고시마현",
+        "banner": "http://radiko.jp/res/banner/MYUFM/20170418123313.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/MYUFM/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "RBCiラジオ",
+        "station_id": "RBC",
+        "area_id": "JP47",
+        "area_jp": "沖縄",
+        "area_kr": "오키나와현",
+        "banner": "http://radiko.jp/res/banner/RBC/20220526093324.jpg",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/RBC/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ラジオ沖縄",
+        "station_id": "ROK",
+        "area_id": "JP47",
+        "area_jp": "沖縄",
+        "area_kr": "오키나와현",
+        "banner": "http://radiko.jp/res/banner/ROK/20220826183921.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/ROK/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "FM沖縄",
+        "station_id": "FM_OKINAWA",
+        "area_id": "JP47",
+        "area_jp": "沖縄",
+        "area_kr": "오키나와현",
+        "banner": "http://radiko.jp/res/banner/FM_OKINAWA/20170913105637.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/FM_OKINAWA/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "NHKラジオ第1（福岡）",
+        "station_id": "JOLK",
+        "area_id": "JP40",
+        "area_jp": "福岡",
+        "area_kr": "후쿠오카현",
+        "banner": "http://radiko.jp/res/banner/JOLK/20170922184021.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/JOLK/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ラジオNIKKEI第1",
+        "station_id": "RN1",
+        "area_id": "JP13",
+        "area_jp": "東京",
+        "area_kr": "도쿄도",
+        "banner": "http://radiko.jp/res/banner/RN1/20120802154152.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/RN1/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "ラジオNIKKEI第2",
+        "station_id": "RN2",
+        "area_id": "JP13",
+        "area_jp": "東京",
+        "area_kr": "도쿄도",
+        "banner": "http://radiko.jp/res/banner/RN2/20190423111331.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/RN2/lrtrim/688x160.png"
+    },
+    {
+        "station_name": "NHK-FM（東京）",
+        "station_id": "JOAK-FM",
+        "area_id": "JP13",
+        "area_jp": "東京",
+        "area_kr": "도쿄도",
+        "banner": "http://radiko.jp/res/banner/JOAK-FM/20170922184116.png",
+        "logo_url": "https://radiko.jp/v2/static/station/logo/JOAK-FM/lrtrim/688x160.png"
+    }
+]
