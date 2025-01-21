@@ -1,9 +1,9 @@
-# Radiko-Stream
+# Radiko-Downloader
 
-Radiko-Stream can record the [radiko.jp](https://radiko.jp/) programs outside of Japan.
+Radiko-Downloader can record the [radiko.jp](https://radiko.jp/) programs outside of Japan.
 
 ```console
-Radiko_stream
+Radiko-Downloader
  ┣ data
  ┃ ┣ auth
  ┃ ┃ ┗ auth_key.bin
@@ -40,8 +40,8 @@ However, the android version of radkio validates user provided by GPS informatio
 
 - You can install it **locally:**
   ```console
-  $ git clone https://github.com/devhaaana/Radiko-Stream.git
-  $ cd Radiko-Stream
+  $ git clone https://github.com/devhaaana/radiko-downloader.git
+  $ cd radiko-downloader
   ```
 
 ## Parameters
