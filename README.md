@@ -15,7 +15,6 @@ Radiko-Downloader
  ┣ LICENSE
  ┣ README.md
  ┣ main.py
- ┣ radiko_requests.py
  ┣ radiko_urllib3.py
  ┗ requirements.txt
 ```
