@@ -3,7 +3,6 @@ import argparse
 import warnings
 warnings.filterwarnings(action='ignore')
 
-# from radiko_requests import *
 from radiko_urllib3 import *
 from utils import *
 
@@ -33,10 +32,7 @@ def main():
     
     if args.save == True:
         stream = radiko.save_program()
-    else:
-        stream = radiko.get_Stream_URL()
         
-    print(f'Stream URL: {stream}')
     print(f"Execution Time: {time.time() - start_time:.4f} sec")
  
  
